@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Storm Pro Call &#8211; ecommerce2</title>
+	<atom:link href="http://localhost/ecommerce2/product-tag/storm-pro-call/feed/?simply_static_page=1460" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>You deserve to be seen</description>
+	<lastBuildDate>Tue, 31 Oct 2023 01:13:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/11/2.png</url>
+	<title>Storm Pro Call &#8211; ecommerce2</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Storm Pro Call</title>
+		<link>/product/storm-pro-call/</link>
+					<comments>/product/storm-pro-call/#respond</comments>
+		
+		<dc:creator><![CDATA[Good Student]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2023 01:11:22 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=83</guid>
+
+					<description><![CDATA[Let your smartwatch do the talking with boAt Storm Pro Call. With a 4.52 cm AMOLED 60hz display, experience smooth and swift graphics that’ll help you keep in touch with your loved ones when Bluetooth calling directly from your smartwatch. Combining the best of both worlds, Storm Pro comes with the best-in-class health features including 700+ active modes, heart rate tracker, SPO2 tracker and a lot more! Smart got smarter with Storm Pro Call, there’s nothing that it can’t do. Smart notifications, weather updates, call, text, quick reply, quick camera control, all just a swipe away.]]></description>
+										<content:encoded><![CDATA[<div id="productOverview_feature_div" class="celwidget" data-feature-name="productOverview" data-csa-c-type="widget" data-csa-c-content-id="productOverview" data-csa-c-slot-id="productOverview_feature_div" data-csa-c-asin="B0856HNMR7" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="jt2k7e-5jzayd-76peuk-d5f1dm" data-cel-widget="productOverview_feature_div">
+<div class="a-section a-spacing-small a-spacing-top-small">
+<p>Let your smartwatch do the talking with boAt Storm Pro Call. With a 4.52 cm AMOLED 60hz display, experience smooth and swift graphics that’ll help you keep in touch with your loved ones when Bluetooth calling directly from your smartwatch. Combining the best of both worlds, Storm Pro comes with the best-in-class health features including 700+ active modes, heart rate tracker, SPO2 tracker and a lot more! Smart got smarter with Storm Pro Call, there’s nothing that it can’t do. Smart notifications, weather updates, call, text, quick reply, quick camera control, all just a swipe away.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/storm-pro-call/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

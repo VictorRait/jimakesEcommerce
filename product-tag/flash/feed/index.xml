@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Flash &#8211; ecommerce2</title>
+	<atom:link href="http://localhost/ecommerce2/product-tag/flash/feed/?simply_static_page=1442" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>You deserve to be seen</description>
+	<lastBuildDate>Tue, 31 Oct 2023 01:15:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/11/2.png</url>
+	<title>Flash &#8211; ecommerce2</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Flash</title>
+		<link>/product/flash/</link>
+					<comments>/product/flash/#respond</comments>
+		
+		<dc:creator><![CDATA[Good Student]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2023 01:14:47 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=87</guid>
+
+					<description><![CDATA[Dear boAtheads, we bring to you Watch Flash that isn’t here to make you squint your eyes but widen them with awe and wonder even more! With a 33mm LCD Display and a perfectly round dial boAt Flash smartwatch is what you will be flaunting in style. It is slim, sleak, eye-catching with a metallic finish and comes in dual colors. Oh! The uniqueness is just how you like it. What more? boAt Flash smart watch will be monitoring your heart rate and blood oxygen SpO2 24*7 So do that intense workout and sleep without a worry too! 10 active sports mode and activity tracker will only make your life easier and the six watch faces will dwell with your mood and keep you sassed. With live weather forecast, 7 day long battery, music and camera control, IP68, get ready to be fit in a flash and love it!]]></description>
+										<content:encoded><![CDATA[<div id="productOverview_feature_div" class="celwidget" data-feature-name="productOverview" data-csa-c-type="widget" data-csa-c-content-id="productOverview" data-csa-c-slot-id="productOverview_feature_div" data-csa-c-asin="B0856HNMR7" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="jt2k7e-5jzayd-76peuk-d5f1dm" data-cel-widget="productOverview_feature_div">
+<div class="a-section a-spacing-small a-spacing-top-small">
+<p>Dear boAtheads, we bring to you Watch Flash that isn’t here to make you squint your eyes but widen them with awe and wonder even more! With a 33mm LCD Display and a perfectly round dial boAt Flash smartwatch is what you will be flaunting in style. It is slim, sleak, eye-catching with a metallic finish and comes in dual colors. Oh! The uniqueness is just how you like it. What more? boAt Flash smart watch will be monitoring your heart rate and blood oxygen SpO2 24*7 So do that intense workout and sleep without a worry too! 10 active sports mode and activity tracker will only make your life easier and the six watch faces will dwell with your mood and keep you sassed. With live weather forecast, 7 day long battery, music and camera control, IP68, get ready to be fit in a flash and love it!</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/flash/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

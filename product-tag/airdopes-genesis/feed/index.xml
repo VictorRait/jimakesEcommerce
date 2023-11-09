@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Airdopes genesis &#8211; ecommerce2</title>
+	<atom:link href="http://localhost/ecommerce2/product-tag/airdopes-genesis/feed/?simply_static_page=1424" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>You deserve to be seen</description>
+	<lastBuildDate>Wed, 01 Nov 2023 01:14:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/11/2.png</url>
+	<title>Airdopes genesis &#8211; ecommerce2</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Airdopes Genesis</title>
+		<link>/product/airdopes-genesis/</link>
+					<comments>/product/airdopes-genesis/#respond</comments>
+		
+		<dc:creator><![CDATA[Good Student]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2023 00:34:56 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=52</guid>
+
+					<description><![CDATA[Start your journey of a truly immersive wireless experience with Airdopes Genesis. Featuring a playback of 54 hours and ASAP™ Charge it gets you a never-ending immersive experience with boAt Signature sound coming from its powerful 13mm drivers. With seamless in-ear detection and quad mics with ENx™ Technology, get flawless clear calling whether it's a work call or personal chit-chat. Made with a pocketable design and premium metal finish, now witness supreme sound meet phenomenal design.]]></description>
+										<content:encoded><![CDATA[<div id="productOverview_feature_div" class="celwidget" data-feature-name="productOverview" data-csa-c-type="widget" data-csa-c-content-id="productOverview" data-csa-c-slot-id="productOverview_feature_div" data-csa-c-asin="B0856HNMR7" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="jt2k7e-5jzayd-76peuk-d5f1dm" data-cel-widget="productOverview_feature_div">
+<div class="a-section a-spacing-small a-spacing-top-small">
+<p>Start your journey of a truly immersive wireless experience with Airdopes Genesis. Featuring a playback of 54 hours and ASAP<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Charge it gets you a never-ending immersive experience with boAt Signature sound coming from its powerful 13mm drivers. With seamless in-ear detection and quad mics with ENx<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Technology, get flawless clear calling whether it&#8217;s a work call or personal chit-chat. Made with a pocketable design and premium metal finish, now witness supreme sound meet phenomenal design.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/airdopes-genesis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

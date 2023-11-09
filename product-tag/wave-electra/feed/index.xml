@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wave Electra &#8211; ecommerce2</title>
+	<atom:link href="http://localhost/ecommerce2/product-tag/wave-electra/feed/?simply_static_page=1464" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>You deserve to be seen</description>
+	<lastBuildDate>Tue, 31 Oct 2023 01:04:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/11/2.png</url>
+	<title>Wave Electra &#8211; ecommerce2</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wave Electra</title>
+		<link>/product/wave-electra/</link>
+					<comments>/product/wave-electra/#respond</comments>
+		
+		<dc:creator><![CDATA[Good Student]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2023 01:02:38 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=75</guid>
+
+					<description><![CDATA[Thrilling and electrifying. Wave Electra is here with a 1.81” HD display and Bluetooth calling on-the-go. Keep up with your health with 100+ sports modes that accurately track your activity and keeps you in a tip-top shape. If you’re bored, start gaming directly from your smartwatch with whack-a-mole and 2048 built-in. Wave Electra smartwatch supports IP68 Dust and Water Resistance and a massive 7 days of battery life for you to be unstoppable in achieving your fitness goals.]]></description>
+										<content:encoded><![CDATA[<div id="productOverview_feature_div" class="celwidget" data-feature-name="productOverview" data-csa-c-type="widget" data-csa-c-content-id="productOverview" data-csa-c-slot-id="productOverview_feature_div" data-csa-c-asin="B0856HNMR7" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="jt2k7e-5jzayd-76peuk-d5f1dm" data-cel-widget="productOverview_feature_div">
+<div class="a-section a-spacing-small a-spacing-top-small">
+<p>Thrilling and electrifying. Wave Electra is here with a 1.81” HD display and Bluetooth calling on-the-go. Keep up with your health with 100+ sports modes that accurately track your activity and keeps you in a tip-top shape. If you’re bored, start gaming directly from your smartwatch with whack-a-mole and 2048 built-in. Wave Electra smartwatch supports IP68 Dust and Water Resistance and a massive 7 days of battery life for you to be unstoppable in achieving your fitness goals.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/wave-electra/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

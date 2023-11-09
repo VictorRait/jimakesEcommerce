@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Xtend &#8211; ecommerce2</title>
+	<atom:link href="http://localhost/ecommerce2/product-tag/xtend/feed/?simply_static_page=1466" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>You deserve to be seen</description>
+	<lastBuildDate>Tue, 31 Oct 2023 01:17:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/11/2.png</url>
+	<title>Xtend &#8211; ecommerce2</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Xtend</title>
+		<link>/product/xtend/</link>
+					<comments>/product/xtend/#respond</comments>
+		
+		<dc:creator><![CDATA[Good Student]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2023 01:15:58 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=89</guid>
+
+					<description><![CDATA[Ask more, get more, and do more with the smartest smartwatch in town - the all-new boAt Xtend. Leave your phone in your pocket and get your tasks done with a built-in Alexa. Take control over your music, fitness, and more with a 1.69" (4.29 Cms) complete capacitive LCD display. Your wellness is now on your wrist with its Guided Meditative Breathing, Stress Monitor, and Sleep SpO2 Monitoring. Its 50 watch faces let you don a unique style every day. Make more out of your days with boAt Xtend.]]></description>
+										<content:encoded><![CDATA[<div id="productOverview_feature_div" class="celwidget" data-feature-name="productOverview" data-csa-c-type="widget" data-csa-c-content-id="productOverview" data-csa-c-slot-id="productOverview_feature_div" data-csa-c-asin="B0856HNMR7" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="jt2k7e-5jzayd-76peuk-d5f1dm" data-cel-widget="productOverview_feature_div">
+<div class="a-section a-spacing-small a-spacing-top-small">
+<p>Ask more, get more, and do more with the smartest smartwatch in town &#8211; the all-new boAt Xtend. Leave your phone in your pocket and get your tasks done with a built-in Alexa. Take control over your music, fitness, and more with a 1.69&#8243; (4.29 Cms) complete capacitive LCD display. Your wellness is now on your wrist with its Guided Meditative Breathing, Stress Monitor, and Sleep SpO2 Monitoring. Its 50 watch faces let you don a unique style every day. Make more out of your days with boAt Xtend.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/xtend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
